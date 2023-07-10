@@ -23,7 +23,7 @@ My name is Anastasia and I live in Belarus. I am 37 years old. I started my acqu
 + English (A1)
 
 
-## **Code Examplees**
+## **Code Examples**
  ```
  <table>
     <thead>
