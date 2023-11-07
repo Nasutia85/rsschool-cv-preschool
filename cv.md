@@ -2,11 +2,10 @@
 Junior frontend developer
 *************************
 
-
 ![assets/img/photo_cv.jpg](assets/img/photo_cv.jpg)
 
 ## **About me**
-My name is Anastasia and I live in Belarus. I am 37 years old. I started my acquaintance with the world of it several years ago on the Tilda constructor. After graduating, I decided to study further and master the profession of a front-end developer. I like to study and learn new things.
+My name is Anastasia and I live in Belarus. I am 38 years old. I've started my acquaintance with the world of it several years ago on the Tilda constructor. After graduating, I decided to study further and master the profession of a front-end developer. I like to study and learn new things.
 
 
 ## **Skills**
